@@ -27,7 +27,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
-- [ ] There are no dead code in changeset
+- [ ] There is no dead code in changesets
 - [ ] Cyclomatic complexity is in range A to C
 - [ ] Maintainability index has grade A
 - [ ] I have added tests that prove my fix is effective or that my feature works
